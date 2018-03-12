@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/WinsonBlogs.iml" filepath="$PROJECT_DIR$/WinsonBlogs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../WinsonBlogs/blog-service/blog-service.iml" filepath="$PROJECT_DIR$/../WinsonBlogs/blog-service/blog-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../WinsonBlogs/blog-web/blog-web.iml" filepath="$PROJECT_DIR$/../WinsonBlogs/blog-web/blog-web.iml" />
     </modules>
   </component>
 </project>

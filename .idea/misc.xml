@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/../WinsonBlogs/blog-web" />
+  </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/../WinsonBlogs/pom.xml" />
+        <option value="$PROJECT_DIR$/../WinsonBlogs/blog-service/pom.xml" />
+        <option value="$PROJECT_DIR$/../WinsonBlogs/blog-web/pom.xml" />
       </list>
     </option>
   </component>
